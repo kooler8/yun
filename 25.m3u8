@@ -1,0 +1,549 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="ELECTRONIC" tvg-logo="https://live.fanmingming.cn/tv/ELECTRONIC.png",ELECTRONIC
+https://hirschmilch.de:7001/electronic.mp3
+#EXTINF:-1 tvg-name="PROGRESS" tvg-logo="https://live.fanmingming.cn/tv/PROGRESS.png",PROGRESS
+https://hirschmilch.de:7001/progressive.mp3
+#EXTINF:-1 tvg-name="HOUSE" tvg-logo="https://live.fanmingming.cn/tv/HOUSE.png",HOUSE
+https://hirschmilch.de:7001/prog-house.mp3
+#EXTINF:-1 tvg-name="WTO" tvg-logo="https://live.fanmingming.cn/tv/WTO.png",WTO
+https://22113.live.streamtheworld.com/WTOPFMAAC_SC
+#EXTINF:-1 tvg-name="RTHK1" tvg-logo="https://live.fanmingming.cn/tv/RTHK1.png",RTHK1
+https://web.mytop.cloudns.org/web08/https/stm.rthk.hk/radio1
+#EXTINF:-1 tvg-name="RFI" tvg-logo="https://live.fanmingming.cn/tv/RFI.png",RFI
+https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
+#EXTINF:-1 tvg-name="apnews" tvg-logo="https://live.fanmingming.cn/tv/apnews.png",apnews
+https://apnews.streamguys1.com/apnews
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="明珠台1" tvg-logo="https://live.fanmingming.cn/tv/明珠台1.png",明珠台1
+http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png",明珠台
+https://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="无线新闻1" tvg-logo="https://live.fanmingming.cn/tv/无线新闻1.png",无线新闻1
+http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻2" tvg-logo="https://live.fanmingming.cn/tv/无线新闻2.png",无线新闻2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+#EXTINF:-1 tvg-name="线华丽" tvg-logo="https://live.fanmingming.cn/tv/线华丽.png",线华丽
+http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="RT News(英语国际)" tvg-logo="https://live.fanmingming.cn/tv/RT News(英语国际).png",RT News(英语国际)
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-name="Reuters Now" tvg-logo="https://live.fanmingming.cn/tv/Reuters Now.png",Reuters Now
+https://amg00453-reuters-amg00453c1-xumo-us-2073.playouts.now.amagi.tv/reuters-reuters-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="Reelz Famous & Infamous" tvg-logo="https://live.fanmingming.cn/tv/Reelz Famous & Infamous.png",Reelz Famous & Infamous
+https://linear-190.frequency.stream/dist/xumo/190/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Disaster Channel" tvg-logo="https://live.fanmingming.cn/tv/Real Disaster Channel.png",Real Disaster Channel
+https://linear-475.frequency.stream/dist/xumo/475/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax 2 (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Newsmax 2 (1080p).png",Newsmax 2 (1080p)
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC News Now" tvg-logo="https://live.fanmingming.cn/tv/NBC News Now.png",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="NBC Comedy Vault" tvg-logo="https://live.fanmingming.cn/tv/NBC Comedy Vault.png",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="MovieSphere" tvg-logo="https://live.fanmingming.cn/tv/MovieSphere.png",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Motorvision" tvg-logo="https://live.fanmingming.cn/tv/Motorvision.png",Motorvision
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
+#EXTINF:-1 tvg-name="idsomer Murders" tvg-logo="https://live.fanmingming.cn/tv/idsomer Murders.png",idsomer Murders
+https://all3media-midsomer-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Leave It to Beaver" tvg-logo="https://live.fanmingming.cn/tv/Leave It to Beaver.png",Leave It to Beaver
+https://xumo-xumoent-ch826-z0h0h.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Jewish Life Television" tvg-logo="https://live.fanmingming.cn/tv/Jewish Life Television.png",Jewish Life Television
+https://jlt-jltv-xumo.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1 tvg-name="ION Plus" tvg-logo="https://live.fanmingming.cn/tv/ION Plus.png",ION Plus
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION Mystery" tvg-logo="https://live.fanmingming.cn/tv/ION Mystery.png",ION Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ION" tvg-logo="https://live.fanmingming.cn/tv/ION.png",ION
+https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Investigation" tvg-logo="https://live.fanmingming.cn/tv/Investigation.png",Investigation
+https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="WildEarth" tvg-logo="https://live.fanmingming.cn/tv/WildEarth.png",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="Wild West TV" tvg-logo="https://live.fanmingming.cn/tv/Wild West TV.png",Wild West TV
+https://linear-799.frequency.stream/dist/xumo/799/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Universal Westerns" tvg-logo="https://live.fanmingming.cn/tv/Universal Westerns.png",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Universal Monsters" tvg-logo="https://live.fanmingming.cn/tv/Universal Monsters.png",Universal Monsters
+https://xumo-xumoent-ch824-d4q5c.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Universal Crime" tvg-logo="https://live.fanmingming.cn/tv/Universal Crime.png",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Universal Action" tvg-logo="https://live.fanmingming.cn/tv/Universal Action.png",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="UFC" tvg-logo="https://live.fanmingming.cn/tv/UFC.png",UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="TV One Crime & Justice" tvg-logo="https://live.fanmingming.cn/tv/TV One Crime & Justice.png",TV One Crime & Justice
+https://linear-593.frequency.stream/dist/xumo/593/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="True History Channel" tvg-logo="https://live.fanmingming.cn/tv/True History Channel.png",True History Channel
+https://linear-188.frequency.stream/dist/xumo/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Top Chef Vault" tvg-logo="https://live.fanmingming.cn/tv/Top Chef Vault.png",Top Chef Vault
+https://xumo-xumoent-vc-116-hrcw0.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="The Young Turks (TYT) (1080p)" tvg-logo="https://live.fanmingming.cn/tv/The Young Turks (TYT) (1080p).png",The Young Turks (TYT) (1080p)
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 tvg-name="The Walking Dead Universe" tvg-logo="https://live.fanmingming.cn/tv/The Walking Dead Universe.png",The Walking Dead Universe
+https://amc-twdfanexperience-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Lone Ranger" tvg-logo="https://live.fanmingming.cn/tv/The Lone Ranger.png",The Lone Ranger
+https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="The Jamie Oliver Channel" tvg-logo="https://live.fanmingming.cn/tv/The Jamie Oliver Channel.png",The Jamie Oliver Channel
+https://jamieoliver-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="World Poker Tour" tvg-logo="https://live.fanmingming.cn/tv/World Poker Tour.png",World Poker Tour
+https://amg00218-wptenterprisesi-worldpokertour-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Ameritrade (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Ameritrade (1080p).png",Ameritrade (1080p)
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="AWE Encore (720p)" tvg-logo="https://live.fanmingming.cn/tv/AWE Encore (720p).png",AWE Encore (720p)
+https://aweencore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Circle (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Circle (1080p).png",Circle (1080p)
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Young Hollywood (720p)" tvg-logo="https://live.fanmingming.cn/tv/Young Hollywood (720p).png",Young Hollywood (720p)
+https://younghollywood-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Xplore (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Xplore (1080p).png",Xplore (1080p)
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Pac 12 Insider (720p)" tvg-logo="https://live.fanmingming.cn/tv/Pac 12 Insider (720p).png",Pac 12 Insider (720p)
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="OAN (1080p)" tvg-logo="https://live.fanmingming.cn/tv/OAN (1080p).png",OAN (1080p)
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Newsmax 2 (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Newsmax 2 (1080p).png",Newsmax 2 (1080p)
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://live.fanmingming.cn/tv/ABC 2 Baltimore MD (WMAR).png",ABC 2 Baltimore MD (WMAR)
+https://livetv-fa.tubi.video/wmar/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 3 Lafayette LA (KATC)" tvg-logo="https://live.fanmingming.cn/tv/ABC 3 Lafayette LA (KATC).png",ABC 3 Lafayette LA (KATC)
+https://livetv-fa.tubi.video/katc/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 4 Pittsburg PA (WTAE)" tvg-logo="https://live.fanmingming.cn/tv/ABC 4 Pittsburg PA (WTAE).png",ABC 4 Pittsburg PA (WTAE)
+https://livetv-fa.tubi.video/wtae/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 5 Cleveland OH (WEWS)" tvg-logo="https://live.fanmingming.cn/tv/ABC 5 Cleveland OH (WEWS).png",ABC 5 Cleveland OH (WEWS)
+https://livetv-fa.tubi.video/wews2/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 5 Oklahoma City OK (KOCO)" tvg-logo="https://live.fanmingming.cn/tv/ABC 5 Oklahoma City OK (KOCO).png",ABC 5 Oklahoma City OK (KOCO)
+https://livetv-fa.tubi.video/koco/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 6 Boise ID (KIVI) (720p)" tvg-logo="https://live.fanmingming.cn/tv/ABC 6 Boise ID (KIVI) (720p).png",ABC 6 Boise ID (KIVI) (720p)
+https://livetv-fa.tubi.video/kivi/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC 9 Cincinnati OH (WCPO) (720p)" tvg-logo="https://live.fanmingming.cn/tv/ABC 9 Cincinnati OH (WCPO) (720p).png",ABC 9 Cincinnati OH (WCPO) (720p)
+https://livetv-fa.tubi.video/wcpo/playlist.m3u8
+#EXTINF:-1 tvg-name="ABC News Live (720p)" tvg-logo="https://live.fanmingming.cn/tv/ABC News Live (720p).png",ABC News Live (720p)
+https://livetv-fa.tubi.video/abc-news/index.m3u8
+#EXTINF:-1 tvg-name="ABC 23 Bakersfield CA (KERO) (720p)" tvg-logo="https://live.fanmingming.cn/tv/ABC 23 Bakersfield CA (KERO) (720p).png",ABC 23 Bakersfield CA (KERO) (720p)
+https://livetv-fa.tubi.video/kero/playlist.m3u8
+#EXTINF:-1 tvg-name="ACCDN" tvg-logo="https://live.fanmingming.cn/tv/ACCDN.png",ACCDN
+https://livetv-fa.tubi.video/accdn2/playlist.m3u8
+#EXTINF:-1 tvg-name="Alien Nation (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Alien Nation (1080p).png",Alien Nation (1080p)
+https://aegis-cloudfront-1.tubi.video/baa32c24-e707-4bf8-9f81-d26eb6baa3dc/playlist.m3u8
+#EXTINF:-1 tvg-name="Always Funny Videos (720p)" tvg-logo="https://live.fanmingming.cn/tv/Always Funny Videos (720p).png",Always Funny Videos (720p)
+https://livetv-fa.tubi.video/afv/playlist.m3u8
+#EXTINF:-1 tvg-name="American Pickers Channel (1080p)" tvg-logo="https://live.fanmingming.cn/tv/American Pickers Channel (1080p).png",American Pickers Channel (1080p)
+https://livetv-fa.tubi.video/american-pickers/playlist.m3u8
+#EXTINF:-1 tvg-name="Americas Test Kitchen (720p)" tvg-logo="https://live.fanmingming.cn/tv/Americas Test Kitchen (720p).png",Americas Test Kitchen (720p)
+https://livetv-fa.tubi.video/americas-test-kitchen2/playlist.m3u8
+#EXTINF:-1 tvg-name="Anger Management Channel (720p)" tvg-logo="https://live.fanmingming.cn/tv/Anger Management Channel (720p).png",Anger Management Channel (720p)
+https://livetv-fa.tubi.video/anger-management2/playlist.m3u8
+#EXTINF:-1 tvg-name="Are We There Yet" tvg-logo="https://live.fanmingming.cn/tv/Are We There Yet.png",Are We There Yet
+https://livetv-fa.tubi.video/are-we-there-yet2/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Earth (720p)" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth (720p).png",BBC Earth (720p)
+https://livetv-fa.tubi.video/bbc-earth2/playlist.m3u
+#EXTINF:-1 tvg-name="BBC Silent Witness New Tricks" tvg-logo="https://live.fanmingming.cn/tv/BBC Silent Witness New Tricks.png",BBC Silent Witness New Tricks
+https://aegis-cloudfront-1.tubi.video/d37465d7-dfbc-45cd-98a2-8d47968b5fb5/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear (720p)" tvg-logo="https://live.fanmingming.cn/tv/BBC Top Gear (720p).png",BBC Top Gear (720p)
+https://livetv-fa.tubi.video/bbc-top-gear2/playlist.m3u8
+#EXTINF:-1 tvg-name="BUZZR (720p)" tvg-logo="https://live.fanmingming.cn/tv/BUZZR (720p).png",BUZZR (720p)
+https://livetv-fa.tubi.video/buzzr/playlist.m3u8
+#EXTINF:-1 tvg-name="Caught in Providence (720p)" tvg-logo="https://live.fanmingming.cn/tv/Caught in Providence (720p).png",Caught in Providence (720p)
+https://livetv-fa.tubi.video/caught-in-providence2/playlist.m3u8
+#EXTINF:-1 tvg-name="CBC News Network (1080p)" tvg-logo="https://live.fanmingming.cn/tv/CBC News Network (1080p).png",CBC News Network (1080p)
+https://livetv-fa.tubi.video/cbc2/master.m3u8
+#EXTINF:-1 tvg-name="Cheddar News (720p)" tvg-logo="https://live.fanmingming.cn/tv/Cheddar News (720p).png",Cheddar News (720p)
+https://livetv-fa.tubi.video/cheddar/index.m3u8
+#EXTINF:-1 tvg-name="CBS 32 Louisville KY (WLKY) (720p)" tvg-logo="https://live.fanmingming.cn/tv/CBS 32 Louisville KY (WLKY) (720p).png",CBS 32 Louisville KY (WLKY) (720p)
+https://livetv-fa.tubi.video/wlky/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX 5 New York NY (WNYW) (720p)" tvg-logo="https://live.fanmingming.cn/tv/FOX 5 New York NY (WNYW) (720p).png",FOX 5 New York NY (WNYW) (720p)
+https://livetv-fa.tubi.video/wnyw/index.m3u8
+#EXTINF:-1 tvg-name="Ice Road Truckers (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Ice Road Truckers (1080p).png",Ice Road Truckers (1080p)
+https://livetv-fa.tubi.video/ice-road-truckers/playlist.m3u8
+#EXTINF:-1 tvg-name="LiveNOW from FOX (720p)" tvg-logo="https://live.fanmingming.cn/tv/LiveNOW from FOX (720p).png",LiveNOW from FOX (720p)
+https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+#EXTINF:-1 tvg-name="Kartoon Channel (720p)" tvg-logo="https://live.fanmingming.cn/tv/Kartoon Channel (720p).png",Kartoon Channel (720p)
+https://livetv-fa.tubi.video/kartoon/kc_co.m3u8
+#EXTINF:-1 tvg-name="Localish (720p)" tvg-logo="https://live.fanmingming.cn/tv/Localish (720p).png",Localish (720p)
+https://livetv-fa.tubi.video/localish/index.m3u8
+#EXTINF:-1 tvg-name="Love Nature (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Love Nature (1080p).png",Love Nature (1080p)
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-name="Midsomer Murders (720p)" tvg-logo="https://live.fanmingming.cn/tv/Midsomer Murders (720p).png",Midsomer Murders (720p)
+https://livetv-fa.tubi.video/midsomer-murders/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieSphere (720p)" tvg-logo="https://live.fanmingming.cn/tv/MovieSphere (720p).png",MovieSphere (720p)
+https://livetv-fa.tubi.video/moviesphere/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieSphere Canada (1080p)" tvg-logo="https://live.fanmingming.cn/tv/MovieSphere Canada (1080p).png",MovieSphere Canada (1080p)
+https://livetv-fa.tubi.video/moviesphere-canada2/playlist.m3u8
+#EXTINF:-1 tvg-name="Mr. Beast (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Mr. Beast (1080p).png",Mr. Beast (1080p)
+https://livetv-fa.tubi.video/mr-beast/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC News Now (1080p)" tvg-logo="https://live.fanmingming.cn/tv/NBC News Now (1080p).png",NBC News Now (1080p)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-name="NHL (1080p)" tvg-logo="https://live.fanmingming.cn/tv/NHL (1080p).png",NHL (1080p)
+https://livetv-fa.tubi.video/nhl/playlist.m3u8
+#EXTINF:-1 tvg-name="NBC News Now (1080p)" tvg-logo="https://live.fanmingming.cn/tv/NBC News Now (1080p).png",NBC News Now (1080p)
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-name="24 Hour Free Movies" tvg-logo="https://live.fanmingming.cn/tv/24 Hour Free Movies.png",24 Hour Free Movies
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-name="Channel Fight (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Channel Fight (1080p).png",Channel Fight (1080p)
+https://d15wqvt0xm15k4.cloudfront.net/scheduler/scheduleMaster/266.m3u8
+#EXTINF:-1 tvg-name="4K Travel TV" tvg-logo="https://live.fanmingming.cn/tv/4K Travel TV.png",4K Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:-1 tvg-name="Ace TV" tvg-logo="https://live.fanmingming.cn/tv/Ace TV.png",Ace TV
+https://streams2.sofast.tv/WiseM3U8_30/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-name="Automotion" tvg-logo="https://live.fanmingming.cn/tv/Automotion.png",Automotion
+https://streams2.sofast.tv/sofastplayout/0c3229e2-6ca5-4714-859e-c0ac6b9aa58a_0_HLS/master.m3u8
+#EXTINF:-1 tvg-name="Arab Heritage" tvg-logo="https://live.fanmingming.cn/tv/Arab Heritage.png",Arab Heritage
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5dc4c2f-e3ec-488a-9458-9287014fba16/manifest.m3u8
+#EXTINF:-1 tvg-name="BabyFirst" tvg-logo="https://live.fanmingming.cn/tv/BabyFirst.png",BabyFirst
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+#EXTINF:-1 tvg-name="Best Drama TV" tvg-logo="https://live.fanmingming.cn/tv/Best Drama TV.png",Best Drama TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9800ea5c-2183-4160-9f01-70e5d6428a50/manifest.m3u8
+#EXTINF:-1 tvg-name="Best Action TV" tvg-logo="https://live.fanmingming.cn/tv/Best Action TV.png",Best Action TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9a4a5412-ca99-48d3-9013-d1811b95b9d2/manifest.m3u8
+#EXTINF:-1 tvg-name="Bang Bang TV" tvg-logo="https://live.fanmingming.cn/tv/Bang Bang TV.png",Bang Bang TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/6a98fce2-bf4c-4bfb-91f4-c43851bb3801/manifest.m3u8
+#EXTINF:-1 tvg-name="Cartoon Classics" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Classics.png",Cartoon Classics
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
+#EXTINF:-1 tvg-name="Cowboy Movie Channel" tvg-logo="https://live.fanmingming.cn/tv/Cowboy Movie Channel.png",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+#EXTINF:-1 tvg-name="English TV" tvg-logo="https://live.fanmingming.cn/tv/English TV.png",English TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/a5e9aebd-1df4-4e56-be4f-33a891756f9b/manifest.m3u8
+#EXTINF:-1 tvg-name="Drive In Movie Channel" tvg-logo="https://live.fanmingming.cn/tv/Drive In Movie Channel.png",Drive In Movie Channel
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5056383-20ac-488f-b299-6577f66881ff/manifest.m3u8
+#EXTINF:-1 tvg-name="Goal TV" tvg-logo="https://live.fanmingming.cn/tv/Goal TV.png",Goal TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
+#EXTINF:-1 tvg-name="Euronews English" tvg-logo="https://live.fanmingming.cn/tv/Euronews English.png",Euronews English
+https://streams.sofast.tv/euronewsen/live/eds/euronews-en/25017/euronews-en.m3u8
+#EXTINF:-1 tvg-name="Escape TV" tvg-logo="https://live.fanmingming.cn/tv/Escape TV.png",Escape TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
+#EXTINF:-1 tvg-name="HD Travel TV" tvg-logo="https://live.fanmingming.cn/tv/HD Travel TV.png",HD Travel TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/manifest.m3u8
+#EXTINF:-1 tvg-name="Heritage Tourism" tvg-logo="https://live.fanmingming.cn/tv/Heritage Tourism.png",Heritage Tourism
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cff3309e-ded1-40dd-a6dc-e3a6d0a92d72/manifest.m3u8
+#EXTINF:-1 tvg-name="Heritage+" tvg-logo="https://live.fanmingming.cn/tv/Heritage+.png",Heritage+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
+#EXTINF:-1 tvg-name="Homerun TV" tvg-logo="https://live.fanmingming.cn/tv/Homerun TV.png",Homerun TV
+https://streams2.sofast.tv/WiseM3U8_29/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-name="Hoop TV" tvg-logo="https://live.fanmingming.cn/tv/Hoop TV.png",Hoop TV
+https://streams2.sofast.tv/WiseM3U8_28/sofast/cleanhls/master.m3u8
+#EXTINF:-1 tvg-name="Horror TV" tvg-logo="https://live.fanmingming.cn/tv/Horror TV.png",Horror TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/manifest.m3u8
+#EXTINF:-1 tvg-name="Hunt Fish TV" tvg-logo="https://live.fanmingming.cn/tv/Hunt Fish TV.png",Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/master.m3u8
+#EXTINF:-1 tvg-name="Luxury Dreams TV" tvg-logo="https://live.fanmingming.cn/tv/Luxury Dreams TV.png",Luxury Dreams TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2f8307f7-cae4-4b19-afc0-32f4ba4ab4d0/manifest.m3u8
+#EXTINF:-1 tvg-name="Love 2 Hate TV" tvg-logo="https://live.fanmingming.cn/tv/Love 2 Hate TV.png",Love 2 Hate TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4f3f3fb6-cec9-4a29-bc6c-90685947766e/manifest.m3u8
+#EXTINF:-1 tvg-name="Mama Benz TV" tvg-logo="https://live.fanmingming.cn/tv/Mama Benz TV.png",Mama Benz TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65f99e10-8d57-460a-a6be-731d90cfe7b1/manifest.m3u8
+#EXTINF:-1 tvg-name="MotorRacing" tvg-logo="https://live.fanmingming.cn/tv/MotorRacing.png",MotorRacing
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/db917aee-4061-4081-b5fc-d5786defb057/manifest.m3u8
+#EXTINF:-1 tvg-name="Nautical Channel" tvg-logo="https://live.fanmingming.cn/tv/Nautical Channel.png",Nautical Channel
+https://streams2.sofast.tv/vglive-sk-231198/index.m3u8
+#EXTINF:-1 tvg-name="Space Series" tvg-logo="https://live.fanmingming.cn/tv/Space Series.png",Space Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1 tvg-name="Tensions TV" tvg-logo="https://live.fanmingming.cn/tv/Tensions TV.png",Tensions TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/9db01cea-0af6-4382-b2c6-e23525f6640d/manifest.m3u8
+#EXTINF:-1 tvg-name="Sport Fishing TV" tvg-logo="https://live.fanmingming.cn/tv/Sport Fishing TV.png",Sport Fishing TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/eea68b79-bfe2-451e-a227-d637a5b9548a/manifest.m3u8
+#EXTINF:-1 tvg-name="Test My Ride" tvg-logo="https://live.fanmingming.cn/tv/Test My Ride.png",Test My Ride
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_21/master.m3u8
+#EXTINF:-1 tvg-name="Xtrem Sports" tvg-logo="https://live.fanmingming.cn/tv/Xtrem Sports.png",Xtrem Sports
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 tvg-name="Urban Action TV" tvg-logo="https://live.fanmingming.cn/tv/Urban Action TV.png",Urban Action TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/7ad8ce96-5a3f-413e-ae15-7c2cef7bc8f8/manifest.m3u8
+#EXTINF:-1 tvg-name="Unchained TV" tvg-logo="https://live.fanmingming.cn/tv/Unchained TV.png",Unchained TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e6fe3169-15ec-4f33-b16c-c9fc37853d61/manifest.m3u8
+#EXTINF:-1 tvg-name="The Explorers" tvg-logo="https://live.fanmingming.cn/tv/The Explorers.png",The Explorers
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+#EXTINF:-1 tvg-name="Finance (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Finance (1080p).png",Finance (1080p)
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MyTime Movie Network (1080p)" tvg-logo="https://live.fanmingming.cn/tv/MyTime Movie Network (1080p).png",MyTime Movie Network (1080p)
+https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Insight TV (720p)" tvg-logo="https://live.fanmingming.cn/tv/Insight TV (720p).png",Insight TV (720p)
+https://insighttv-samsung-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="antiquesroadshowuk" tvg-logo="https://live.fanmingming.cn/tv/antiquesroadshowuk.png",antiquesroadshowuk
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Doctor Who Classic (1080p)" tvg-logo="https://live.fanmingming.cn/tv/BBC Doctor Who Classic (1080p).png",BBC Doctor Who Classic (1080p)
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Impossible Quiz Show (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Impossible Quiz Show (1080p).png",Impossible Quiz Show (1080p)
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="This Old House (1080p)" tvg-logo="https://live.fanmingming.cn/tv/This Old House (1080p).png",This Old House (1080p)
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Wonder (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Wonder (1080p).png",Wonder (1080p)
+https://lds-wonder-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Timeline (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Timeline (1080p).png",Timeline (1080p)
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SportsGrid (1080p)" tvg-logo="https://live.fanmingming.cn/tv/SportsGrid (1080p).png",SportsGrid (1080p)
+https://sportsgrid-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="SportsGrid (720p)" tvg-logo="https://live.fanmingming.cn/tv/SportsGrid (720p).png",SportsGrid (720p)
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Always Funny Videos" tvg-logo="https://live.fanmingming.cn/tv/Always Funny Videos.png",Always Funny Videos
+https://linear-12.frequency.stream/dist/glewedtv/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Choppertown (720p)" tvg-logo="https://live.fanmingming.cn/tv/Choppertown (720p).png",Choppertown (720p)
+https://linear-11.frequency.stream/dist/glewedtv/11/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Bleav Football" tvg-logo="https://live.fanmingming.cn/tv/Bleav Football.png",Bleav Football
+https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="CampusLore (720p)" tvg-logo="https://live.fanmingming.cn/tv/CampusLore (720p).png",CampusLore (720p)
+https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="DeFiance Media (1080p)" tvg-logo="https://live.fanmingming.cn/tv/DeFiance Media (1080p).png",DeFiance Media (1080p)
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Crime & Justice" tvg-logo="https://live.fanmingming.cn/tv/Crime & Justice.png",Crime & Justice
+https://linear-474.frequency.stream/dist/glewedtv/474/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Estrella News" tvg-logo="https://live.fanmingming.cn/tv/Estrella News.png",Estrella News
+https://estrellanews-glewed.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Disaster Channel" tvg-logo="https://live.fanmingming.cn/tv/Real Disaster Channel.png",Real Disaster Channel
+https://linear-475.frequency.stream/dist/glewedtv/475/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Swerve Sports (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Swerve Sports (1080p).png",Swerve Sports (1080p)
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="True History (720p)" tvg-logo="https://live.fanmingming.cn/tv/True History (720p).png",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="California Music Channel" tvg-logo="https://live.fanmingming.cn/tv/California Music Channel.png",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="MyTime Movie Network" tvg-logo="https://live.fanmingming.cn/tv/MyTime Movie Network.png",MyTime Movie Network
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="3ABN International" tvg-logo="https://live.fanmingming.cn/tv/3ABN International.png",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="Tennis Channel (UK) (720p)" tvg-logo="https://live.fanmingming.cn/tv/Tennis Channel (UK) (720p).png",Tennis Channel (UK) (720p)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Wonder (720p)" tvg-logo="https://live.fanmingming.cn/tv/Wonder (720p).png",Wonder (720p)
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Time Line (720p)" tvg-logo="https://live.fanmingming.cn/tv/Time Line (720p).png",Time Line (720p)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Adventure Earth (720p)" tvg-logo="https://live.fanmingming.cn/tv/Adventure Earth (720p).png",Adventure Earth (720p)
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Baby Shark TV (720p)" tvg-logo="https://live.fanmingming.cn/tv/Baby Shark TV (720p).png",Baby Shark TV (720p)
+https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Great British Menu (720p)" tvg-logo="https://live.fanmingming.cn/tv/Great British Menu (720p).png",Great British Menu (720p)
+https://all3media-great-british-menu-1-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="GB News (1080p)" tvg-logo="https://live.fanmingming.cn/tv/GB News (1080p).png",GB News (1080p)
+https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-name="Filmzie (720p)" tvg-logo="https://live.fanmingming.cn/tv/Filmzie (720p).png",Filmzie (720p)
+https://filmzie-filmzie-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Hotel Inspector (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Hotel Inspector (1080p).png",Hotel Inspector (1080p)
+https://amg00654-itv-amg00654c4-rakuten-uk-5263.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Love Pets (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Love Pets (1080p).png",Love Pets (1080p)
+https://rakutenaa-blueskyent-lovepetsemea-rakuten-ikc4q.amagi.tv/playlist/rakutenAA-blueskyent-lovepetsemea-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-name="Network (720p)" tvg-logo="https://live.fanmingming.cn/tv/Network (720p).png",Network (720p)
+https://lol-lolnetwork-2-gb.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Jail (720p)" tvg-logo="https://live.fanmingming.cn/tv/Jail (720p).png",Jail (720p)
+https://langleyproductions-jail-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="INFAST (1080p)" tvg-logo="https://live.fanmingming.cn/tv/INFAST (1080p).png",INFAST (1080p)
+https://lifestyle-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Now 70s (720p)" tvg-logo="https://live.fanmingming.cn/tv/Now 70s (720p).png",Now 70s (720p)
+Pop (1080p)
+#EXTINF:-1 tvg-name="Project Runway (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Project Runway (1080p).png",Project Runway (1080p)
+https://amg02189-amg02189c1-rakuten-us-5453.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Real Crime Beta (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Real Crime Beta (1080p).png",Real Crime Beta (1080p)
+https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="The Design Network (1080p)" tvg-logo="https://live.fanmingming.cn/tv/The Design Network (1080p).png",The Design Network (1080p)
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel XP (720p)" tvg-logo="https://live.fanmingming.cn/tv/Travel XP (720p).png",Travel XP (720p)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tiny Pop (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Tiny Pop (1080p).png",Tiny Pop (1080p)
+https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="World War TV (1080p)" tvg-logo="https://live.fanmingming.cn/tv/World War TV (1080p).png",World War TV (1080p)
+https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Vevo Pop (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Vevo Pop (1080p).png",Vevo Pop (1080p)
+https://amg00056-amg00056c6-rakuten-uk-3235.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Vevo Hip-Hop & R&B (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Vevo Hip-Hop & R&B (1080p).png",Vevo Hip-Hop & R&B (1080p)
+https://amg00056-amg00056c26-rakuten-uk-3236.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Wicked Tuna (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Wicked Tuna (1080p).png",Wicked Tuna (1080p)
+https://amg00353-amg00353c25-rakuten-us-4896.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Stormcast Westerns (720p)" tvg-logo="https://live.fanmingming.cn/tv/Stormcast Westerns (720p).png",Stormcast Westerns (720p)
+https://stormcast-cinema-llc-westernmaniafast-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Strongman (720p)" tvg-logo="https://live.fanmingming.cn/tv/Strongman (720p).png",Strongman (720p)
+https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Tastemade (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Tastemade (1080p).png",Tastemade (1080p)
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC News Asia Pacific (1080p)" tvg-logo="https://live.fanmingming.cn/tv/BBC News Asia Pacific (1080p).png",BBC News Asia Pacific (1080p)
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="BBC News (North America) (1080p)" tvg-logo="https://live.fanmingming.cn/tv/BBC News (North America) (1080p).png",BBC News (North America) (1080p)
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 tvg-name="CGNTV Chinese (1080p)" tvg-logo="https://live.fanmingming.cn/tv/CGNTV Chinese (1080p).png",CGNTV Chinese (1080p)
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-name="CTS (HUA-CHI CTS) (1080p)" tvg-logo="https://live.fanmingming.cn/tv/CTS (HUA-CHI CTS) (1080p).png",CTS (HUA-CHI CTS) (1080p)
+rtmp://59.124.75.138:1935/sat/tv111
+#EXTINF:-1 tvg-name="TNTV (1080p)" tvg-logo="https://live.fanmingming.cn/tv/TNTV (1080p).png",TNTV (1080p)
+https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Guangzhou TV" tvg-logo="https://live.fanmingming.cn/tv/Guangzhou TV.png",Guangzhou TV
+https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+#EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg TV+.png",Bloomberg TV+
+http://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://live.fanmingming.cn/tv/无线新闻.png",无线新闻
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线新闻2" tvg-logo="https://live.fanmingming.cn/tv/无线新闻2.png",无线新闻2
+http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+#EXTINF:-1 tvg-name="德国" tvg-logo="https://live.fanmingming.cn/tv/德国.png",德国
+https://ap.radio.stream/hls/dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream01/streamPlaylist.m3u8
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-logo="https://live.fanmingming.cn/tv/Al Jazeera.png",Al Jazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="NMTV" tvg-logo="https://live.fanmingming.cn/tv/NMTV.png",NMTV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="france24" tvg-logo="https://live.fanmingming.cn/tv/france24.png",france24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-name="global" tvg-logo="https://live.fanmingming.cn/tv/global.png",global
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 tvg-name="CBS.LA" tvg-logo="https://live.fanmingming.cn/tv/CBS.LA.png",CBS.LA
+https://cbsn-la.cbsnstream.cbsnews.com/out/v1/57b6c4534a164accb6b1872b501e0028/master.m3u8
+#EXTINF:-1 tvg-name="BBC" tvg-logo="https://live.fanmingming.cn/tv/BBC.png",BBC
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://live.fanmingming.cn/tv/Red Bull TV.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-name="DW EN" tvg-logo="https://live.fanmingming.cn/tv/DW EN.png",DW EN
+https://site.2022vpb.eu.org/web08/https/dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-name="Wild Earth" tvg-logo="https://live.fanmingming.cn/tv/Wild Earth.png",Wild Earth
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-name="SKY2" tvg-logo="https://live.fanmingming.cn/tv/SKY2.png",SKY2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-name="cbsnews" tvg-logo="https://live.fanmingming.cn/tv/cbsnews.png",cbsnews
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_24.m3u8
+#EXTINF:-1 tvg-name="RTHKTV31.hk" tvg-logo="https://live.fanmingming.cn/tv/RTHKTV31.hk.png",RTHKTV31.hk
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="RTHKTV32" tvg-logo="https://live.fanmingming.cn/tv/RTHKTV32.png",RTHKTV32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 tvg-name="ABNChina.us" tvg-logo="https://live.fanmingming.cn/tv/ABNChina.us.png",ABNChina.us
+https://mediaserver.abnvideos.com/streams/abnchina.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.cn/tv/ABC News.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-name="ACTV" tvg-logo="https://live.fanmingming.cn/tv/ACTV.png",ACTV
+https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch3/video.m3u8
+#EXTINF:-1 tvg-name="CNCTV.us" tvg-logo="https://live.fanmingming.cn/tv/CNCTV.us.png",CNCTV.us
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sdcounty/G0283_012/playlist.m3u8
+#EXTINF:-1 tvg-name="Everyday Refresh" tvg-logo="https://live.fanmingming.cn/tv/Everyday Refresh.png",Everyday Refresh
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc6us/master.m3u8
+#EXTINF:-1 tvg-name="FashionFinds" tvg-logo="https://live.fanmingming.cn/tv/FashionFinds.png",FashionFinds
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8
+#EXTINF:-1 tvg-name="FoxNewsChannel" tvg-logo="https://live.fanmingming.cn/tv/FoxNewsChannel.png",FoxNewsChannel
+http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8
+#EXTINF:-1 tvg-name="livenews" tvg-logo="https://live.fanmingming.cn/tv/livenews.png",livenews
+https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+#EXTINF:-1 tvg-name="foxnewsnow" tvg-logo="https://live.fanmingming.cn/tv/foxnewsnow.png",foxnewsnow
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="FoxSports2" tvg-logo="https://live.fanmingming.cn/tv/FoxSports2.png",FoxSports2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 tvg-name="FunRoads" tvg-logo="https://live.fanmingming.cn/tv/FunRoads.png",FunRoads
+http://104.143.4.5:2080/funroads.m3u8
+#EXTINF:-1 tvg-name="Newsmax2" tvg-logo="https://live.fanmingming.cn/tv/Newsmax2.png",Newsmax2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="NewsmaxTV" tvg-logo="https://live.fanmingming.cn/tv/NewsmaxTV.png",NewsmaxTV
+https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
+#EXTINF:-1 tvg-name="NDTV" tvg-logo="https://live.fanmingming.cn/tv/NDTV.png",NDTV
+https://ntd02.akamaized.net/NTDA/index.m3u8
+#EXTINF:-1 tvg-name="NTD TV UK" tvg-logo="https://live.fanmingming.cn/tv/NTD TV UK.png",NTD TV UK
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1 tvg-name="QVC2.us" tvg-logo="https://live.fanmingming.cn/tv/QVC2.us.png",QVC2.us
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2us/master.m3u8
+#EXTINF:-1 tvg-name="QVC West" tvg-logo="https://live.fanmingming.cn/tv/QVC West.png",QVC West
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uswest/master.m3u8
+#EXTINF:-1 tvg-name="SUMtvLatino" tvg-logo="https://live.fanmingming.cn/tv/SUMtvLatino.png",SUMtvLatino
+https://bozztv.com/uni10rtmp/ssstv2-cdn/smil:ssstv2web.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="TBD" tvg-logo="https://live.fanmingming.cn/tv/TBD.png",TBD
+https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
+#EXTINF:-1 tvg-name="TheNest.us" tvg-logo="https://live.fanmingming.cn/tv/TheNest.us.png",TheNest.us
+https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
+#EXTINF:-1 tvg-name="tscstreaming CA" tvg-logo="https://live.fanmingming.cn/tv/tscstreaming CA.png",tscstreaming CA
+https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
+#EXTINF:-1 tvg-name="TVSDriveInMovie" tvg-logo="https://live.fanmingming.cn/tv/TVSDriveInMovie.png",TVSDriveInMovie
+https://rpn.bozztv.com/gusa/gusa-tvsdriveinmovie/index.m3u8
+#EXTINF:-1 tvg-name="TVSComedyNetwork" tvg-logo="https://live.fanmingming.cn/tv/TVSComedyNetwork.png",TVSComedyNetwork
+https://rpn.bozztv.com/gusa/gusa-tvs/index.m3u8
+#EXTINF:-1 tvg-name="TVSClassicSports" tvg-logo="https://live.fanmingming.cn/tv/TVSClassicSports.png",TVSClassicSports
+https://rpn.bozztv.com/gusa/gusa-tvscomedy/index.m3u8
+#EXTINF:-1 tvg-name="TV CLASSICMOVIE" tvg-logo="https://live.fanmingming.cn/tv/TV CLASSICMOVIE.png",TV CLASSICMOVIE
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-name="TVSCipherNetwork" tvg-logo="https://live.fanmingming.cn/tv/TVSCipherNetwork.png",TVSCipherNetwork
+https://rpn.bozztv.com/gusa/gusa-tvsmystery/index.m3u8
+#EXTINF:-1 tvg-name="USANetworkLatinAmerica" tvg-logo="https://live.fanmingming.cn/tv/USANetworkLatinAmerica.png",USANetworkLatinAmerica
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
+#EXTINF:-1 tvg-name="bozztv" tvg-logo="https://live.fanmingming.cn/tv/bozztv.png",bozztv
+https://dvrfl03.bozztv.com/hondu/hondu-rick-abc/index.m3u8
+#EXTINF:-1 tvg-name="YahooFinance" tvg-logo="https://live.fanmingming.cn/tv/YahooFinance.png",YahooFinance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-name="CBC News" tvg-logo="https://live.fanmingming.cn/tv/CBC News.png",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-name="GemShoppingNetwork" tvg-logo="https://live.fanmingming.cn/tv/GemShoppingNetwork.png",GemShoppingNetwork
+https://amg01460-gemshoppingnetw-gem-ono-x662c.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="GCN" tvg-logo="https://live.fanmingming.cn/tv/GCN.png",GCN
+http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="GlobalFashionChannel" tvg-logo="https://live.fanmingming.cn/tv/GlobalFashionChannel.png",GlobalFashionChannel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="GlobalWorldTV" tvg-logo="https://live.fanmingming.cn/tv/GlobalWorldTV.png",GlobalWorldTV
+https://media.streambrothers.com:1936/8052/8052/playlist.m3u8
+#EXTINF:-1 tvg-name="GMTV" tvg-logo="https://live.fanmingming.cn/tv/GMTV.png",GMTV
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1341/master1400000.m3u8;session=live_stream_1341
+#EXTINF:-1 tvg-name="Go2Travel" tvg-logo="https://live.fanmingming.cn/tv/Go2Travel.png",Go2Travel
+https://go2thls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-name="Golden Boy" tvg-logo="https://live.fanmingming.cn/tv/Golden Boy.png",Golden Boy
+https://goldenboy.duckhunting.playout.vju.tv/DuckhuntingTV_GoldenBoy/main.m3u8
+#EXTINF:-1 tvg-name="Golden TV" tvg-logo="https://live.fanmingming.cn/tv/Golden TV.png",Golden TV
+https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
+#EXTINF:-1 tvg-name="GBNTV" tvg-logo="https://live.fanmingming.cn/tv/GBNTV.png",GBNTV
+https://cdn3.wowza.com/5/Ny9jK1A1Q3h4N1VZ/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-name="GuyBaiTV" tvg-logo="https://live.fanmingming.cn/tv/GuyBaiTV.png",GuyBaiTV
+https://livechannel.mdc.akamaized.net/stitch/livechannel/1342/master1400000.m3u8;session=live_stream_1342
+#EXTINF:-1 tvg-name="HollyWire" tvg-logo="https://live.fanmingming.cn/tv/HollyWire.png",HollyWire
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 tvg-name="HSN" tvg-logo="https://live.fanmingming.cn/tv/HSN.png",HSN
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1us/master.m3u8
+#EXTINF:-1 tvg-name="HSN2" tvg-logo="https://live.fanmingming.cn/tv/HSN2.png",HSN2
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
+#EXTINF:-1 tvg-name="HSN3" tvg-logo="https://live.fanmingming.cn/tv/HSN3.png",HSN3
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1uswest/master.m3u8
+#EXTINF:-1 tvg-name="IntheKitchen" tvg-logo="https://live.fanmingming.cn/tv/IntheKitchen.png",IntheKitchen
+https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4us/master.m3u8
+#EXTINF:-1 tvg-name="InfoWars" tvg-logo="https://live.fanmingming.cn/tv/InfoWars.png",InfoWars
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 tvg-name="InfoWars The Alex Jones Show" tvg-logo="https://live.fanmingming.cn/tv/InfoWars The Alex Jones Show.png",InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 tvg-name="InfoWars The American Journal" tvg-logo="https://live.fanmingming.cn/tv/InfoWars The American Journal.png",InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 tvg-name="InfoWars War Room With Owen Shroyer" tvg-logo="https://live.fanmingming.cn/tv/InfoWars War Room With Owen Shroyer.png",InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+#EXTINF:-1 tvg-name="ItsSupernaturalNetwork" tvg-logo="https://live.fanmingming.cn/tv/ItsSupernaturalNetwork.png",ItsSupernaturalNetwork
+https://content.uplynk.com/channel/fbc0f835332e476397b12216f9042f78.m3u8
+#EXTINF:-1 tvg-name="KCMNLD6" tvg-logo="https://live.fanmingming.cn/tv/KCMNLD6.png",KCMNLD6
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+#EXTINF:-1 tvg-name="KetchupTV" tvg-logo="https://live.fanmingming.cn/tv/KetchupTV.png",KetchupTV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=13171
+#EXTINF:-1 tvg-name="LivingFaithTV" tvg-logo="https://live.fanmingming.cn/tv/LivingFaithTV.png",LivingFaithTV
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1
+#EXTINF:-1 tvg-name="MadDogandMerrill" tvg-logo="https://live.fanmingming.cn/tv/MadDogandMerrill.png",MadDogandMerrill
+https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8
+#EXTINF:-1 tvg-name="MSNBC" tvg-logo="https://live.fanmingming.cn/tv/MSNBC.png",MSNBC
+https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
+#EXTINF:-1 tvg-name="NEW K-POP (1080p)" tvg-logo="https://live.fanmingming.cn/tv/NEW K-POP (1080p).png",NEW K-POP (1080p)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Alfred Hitchcock Presents" tvg-logo="https://live.fanmingming.cn/tv/Alfred Hitchcock Presents.png",Alfred Hitchcock Presents
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="American Crimes" tvg-logo="https://live.fanmingming.cn/tv/American Crimes.png",American Crimes
+https://xumo-xumoent-vc-113-at8kn.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="AllWeddingsWEtv" tvg-logo="https://live.fanmingming.cn/tv/AllWeddingsWEtv.png",AllWeddingsWEtv
+https://amc-allweddings-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Alien Nation" tvg-logo="https://live.fanmingming.cn/tv/Alien Nation.png",Alien Nation
+https://linear-888.frequency.stream/dist/xumo/888/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="American Ninja Warrior" tvg-logo="https://live.fanmingming.cn/tv/American Ninja Warrior.png",American Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="BBCEarth" tvg-logo="https://live.fanmingming.cn/tv/BBCEarth.png",BBCEarth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Impossible" tvg-logo="https://live.fanmingming.cn/tv/BBC Impossible.png",BBC Impossible
+https://bbc-impossible-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Top Gear" tvg-logo="https://live.fanmingming.cn/tv/BBC Top Gear.png",BBC Top Gear
+https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8
+#EXTINF:-1 tvg-name="Black News Channel" tvg-logo="https://live.fanmingming.cn/tv/Black News Channel.png",Black News Channel
+https://blacknewschannel-xumo-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Black News ChannelUS" tvg-logo="https://live.fanmingming.cn/tv/Black News ChannelUS.png",Black News ChannelUS
+https://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bounce XL" tvg-logo="https://live.fanmingming.cn/tv/Bounce XL.png",Bounce XL
+https://scripps-bouncexl-1-us.xumo.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Bravo Vault" tvg-logo="https://live.fanmingming.cn/tv/Bravo Vault.png",Bravo Vault
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-name="Circle (1080p)" tvg-logo="https://live.fanmingming.cn/tv/Circle (1080p).png",Circle (1080p)
+https://circle-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="HiYAH" tvg-logo="https://live.fanmingming.cn/tv/HiYAH.png",HiYAH
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Homeful" tvg-logo="https://live.fanmingming.cn/tv/Homeful.png",Homeful
+https://amg00090-blueantllc-homefull-xumo-rn9cd.amagi.tv/playlist.m3u8
